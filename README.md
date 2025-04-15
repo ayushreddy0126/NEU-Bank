@@ -1,4 +1,4 @@
-# NEU-Bank
+# Northeastern University Bank
 
 ![NEU-Bank Logo](https://via.placeholder.com/150?text=NEU+Bank)
 
